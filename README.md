@@ -11,8 +11,8 @@ Bullseye Hash is a high performance hash table to accelerate element-wise sparse
 
 ## Setup
 ```
-git clone xxx (Bullseye Hash)
-git clone xxx (Tensors)
+git clone https://github.com/MaxwellF1/BSpTC.git (Bullseye Hash)
+download the ![FROSTT](http://frostt.io/) Dataset (Tensors)
 ```
 
 ./build.sh
